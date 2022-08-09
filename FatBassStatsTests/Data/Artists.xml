@@ -1,0 +1,587 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<metadata created="2022-08-08T10:44:10.736Z" xmlns="http://musicbrainz.org/ns/mmd-2.0#" xmlns:ns2="http://musicbrainz.org/ns/ext#-2.0">
+  <artist-list count="871" offset="0">
+    <artist id="24ea074c-59cc-41c5-a5de-f68c2952965f" type="Person" type-id="b6e035f4-3ce9-331c-97df-83397230b0df" ns2:score="100">
+      <name>Paolo Nutini</name>
+      <sort-name>Nutini, Paolo</sort-name>
+      <gender id="36d3d30a-839d-3eda-8cb3-29be4384e4a9">male</gender>
+      <country>GB</country>
+      <area id="8a754a16-0027-3a29-b6d7-2b40ea0481ed" type="Country" type-id="06dd0ae4-8c74-30bb-b43d-95dcedf961de">
+        <name>United Kingdom</name>
+        <sort-name>United Kingdom</sort-name>
+        <life-span>
+          <ended>false</ended>
+        </life-span>
+      </area>
+      <begin-area id="9036f796-c28f-4aa6-9562-81dfb3d1cdec" type="City" type-id="6fd8f29a-3d0a-32fc-980d-ea697b69da78">
+        <name>Paisley</name>
+        <sort-name>Paisley</sort-name>
+        <life-span>
+          <ended>false</ended>
+        </life-span>
+      </begin-area>
+      <ipi-list>
+        <ipi>00469925989</ipi>
+      </ipi-list>
+      <isni-list>
+        <isni>0000000114544322</isni>
+      </isni-list>
+      <life-span>
+        <begin>1987-01-09</begin>
+        <ended>false</ended>
+      </life-span>
+      <alias-list>
+        <alias sort-name="Nutini, Paolo Giovanni" type="Legal name" type-id="d4dcd0c0-b341-3612-a332-c0ce797b25cf">Paolo Giovanni Nutini</alias>
+        <alias sort-name="Pablo Nutini">Pablo Nutini</alias>
+        <alias sort-name="Paola Nutini">Paola Nutini</alias>
+        <alias sort-name="Paulo Nutini">Paulo Nutini</alias>
+        <alias sort-name="Nutini, Paulo">Nutini, Paulo</alias>
+      </alias-list>
+      <tag-list>
+        <tag count="1">
+          <name>alternative rock</name>
+        </tag>
+        <tag count="1">
+          <name>british</name>
+        </tag>
+        <tag count="1">
+          <name>uk</name>
+        </tag>
+        <tag count="1">
+          <name>britannique</name>
+        </tag>
+        <tag count="1">
+          <name>indie rock</name>
+        </tag>
+        <tag count="3">
+          <name>folk rock</name>
+        </tag>
+        <tag count="2">
+          <name>rock and indie</name>
+        </tag>
+      </tag-list>
+    </artist>
+    <artist id="6462f071-dfe2-44db-a7f2-f568fae7f6d5" type="Person" type-id="b6e035f4-3ce9-331c-97df-83397230b0df" ns2:score="45">
+      <name>Dave Nelson</name>
+      <sort-name>Nelson, Dave</sort-name>
+      <gender id="36d3d30a-839d-3eda-8cb3-29be4384e4a9">male</gender>
+      <disambiguation>Writes with Paolo Nutini</disambiguation>
+      <life-span>
+        <ended>false</ended>
+      </life-span>
+    </artist>
+    <artist id="04483d6d-ed94-4ff6-b5ff-63e9bfb037ad" type="Person" type-id="b6e035f4-3ce9-331c-97df-83397230b0df" ns2:score="31">
+      <name>Paolo Paolo</name>
+      <sort-name>Paolo, Paolo</sort-name>
+      <gender id="36d3d30a-839d-3eda-8cb3-29be4384e4a9">male</gender>
+      <country>IT</country>
+      <area id="c6500277-9a3d-349b-bf30-41afdbf42add" type="Country" type-id="06dd0ae4-8c74-30bb-b43d-95dcedf961de">
+        <name>Italy</name>
+        <sort-name>Italy</sort-name>
+        <life-span>
+          <ended>false</ended>
+        </life-span>
+      </area>
+      <disambiguation>pseudonym used by Gianni Boncompagni</disambiguation>
+      <life-span>
+        <ended>false</ended>
+      </life-span>
+    </artist>
+    <artist id="2f935fb1-f679-440f-b87f-0ac3cfbe8173" type="Person" type-id="b6e035f4-3ce9-331c-97df-83397230b0df" ns2:score="30">
+      <name>Francesco Paolo Tosti</name>
+      <sort-name>Tosti, Francesco Paolo</sort-name>
+      <gender id="36d3d30a-839d-3eda-8cb3-29be4384e4a9">male</gender>
+      <country>IT</country>
+      <area id="c6500277-9a3d-349b-bf30-41afdbf42add" type="Country" type-id="06dd0ae4-8c74-30bb-b43d-95dcedf961de">
+        <name>Italy</name>
+        <sort-name>Italy</sort-name>
+        <life-span>
+          <ended>false</ended>
+        </life-span>
+      </area>
+      <begin-area id="43c53d94-a0b9-4aad-9bfb-aa5326e58fcc" type="Municipality" type-id="17246454-5ac4-36a1-b81a-4753eb2dab20">
+        <name>Ortona</name>
+        <sort-name>Ortona</sort-name>
+        <life-span>
+          <ended>false</ended>
+        </life-span>
+      </begin-area>
+      <end-area id="dccd77b2-bd3d-49eb-a98f-fd58e87f481e" type="City" type-id="6fd8f29a-3d0a-32fc-980d-ea697b69da78">
+        <name>Roma</name>
+        <sort-name>Roma</sort-name>
+        <life-span>
+          <ended>false</ended>
+        </life-span>
+      </end-area>
+      <disambiguation>composer</disambiguation>
+      <isni-list>
+        <isni>0000000110262045</isni>
+      </isni-list>
+      <life-span>
+        <begin>1846-04-09</begin>
+        <end>1916-12-02</end>
+        <ended>true</ended>
+      </life-span>
+      <alias-list>
+        <alias sort-name="Tosti, Francesco Paolo">Francesco Paolo Tosti</alias>
+        <alias sort-name="Tosti, Francesco Paolo, Sir" begin-date="1908">Sir Francesco Paolo Tosti</alias>
+        <alias sort-name="Tosti" type="Artist name" type-id="894afba6-2816-3c24-8072-eadb66bd04bc">Tosti</alias>
+        <alias locale="en" sort-name="Tosti, Paolo" type="Artist name" type-id="894afba6-2816-3c24-8072-eadb66bd04bc" primary="primary">Paolo Tosti</alias>
+        <alias sort-name="Tosti, Paolo, Sir">Sir Paolo Tosti</alias>
+      </alias-list>
+      <tag-list>
+        <tag count="1">
+          <name>composer</name>
+        </tag>
+      </tag-list>
+    </artist>
+    <artist id="fca7d01f-97ab-491c-8604-6d8b12f0c02e" type="Person" type-id="b6e035f4-3ce9-331c-97df-83397230b0df" ns2:score="30">
+      <name>Nuto</name>
+      <sort-name>Nuto</sort-name>
+      <gender id="36d3d30a-839d-3eda-8cb3-29be4384e4a9">male</gender>
+      <country>IT</country>
+      <area id="c6500277-9a3d-349b-bf30-41afdbf42add" type="Country" type-id="06dd0ae4-8c74-30bb-b43d-95dcedf961de">
+        <name>Italy</name>
+        <sort-name>Italy</sort-name>
+        <life-span>
+          <ended>false</ended>
+        </life-span>
+      </area>
+      <begin-area id="2b397313-0d04-4167-b9a8-914f16935d4a" type="City" type-id="6fd8f29a-3d0a-32fc-980d-ea697b69da78">
+        <name>Firenze</name>
+        <sort-name>Firenze</sort-name>
+        <life-span>
+          <ended>false</ended>
+        </life-span>
+      </begin-area>
+      <disambiguation>Italian drummer Alessandro Nutini</disambiguation>
+      <life-span>
+        <begin>1970-04-21</begin>
+        <ended>false</ended>
+      </life-span>
+      <alias-list>
+        <alias sort-name="Nutini, Alessandro" type="Legal name" type-id="d4dcd0c0-b341-3612-a332-c0ce797b25cf">Alessandro Nutini</alias>
+      </alias-list>
+    </artist>
+    <artist id="777bfd31-0c54-49b9-b057-c1fa742cdcf1" type="Person" type-id="b6e035f4-3ce9-331c-97df-83397230b0df" ns2:score="29">
+      <name>Paolo Conte</name>
+      <sort-name>Conte, Paolo</sort-name>
+      <gender id="36d3d30a-839d-3eda-8cb3-29be4384e4a9">male</gender>
+      <country>IT</country>
+      <area id="c6500277-9a3d-349b-bf30-41afdbf42add" type="Country" type-id="06dd0ae4-8c74-30bb-b43d-95dcedf961de">
+        <name>Italy</name>
+        <sort-name>Italy</sort-name>
+        <life-span>
+          <ended>false</ended>
+        </life-span>
+      </area>
+      <begin-area id="c60a04e4-e5b4-403c-83c6-01797eaa8d38" type="Municipality" type-id="17246454-5ac4-36a1-b81a-4753eb2dab20">
+        <name>Asti</name>
+        <sort-name>Asti</sort-name>
+        <life-span>
+          <ended>false</ended>
+        </life-span>
+      </begin-area>
+      <ipi-list>
+        <ipi>00006679571</ipi>
+      </ipi-list>
+      <isni-list>
+        <isni>0000000094469002</isni>
+      </isni-list>
+      <life-span>
+        <begin>1937-01-06</begin>
+        <ended>false</ended>
+      </life-span>
+      <tag-list>
+        <tag count="1">
+          <name>jazz</name>
+        </tag>
+        <tag count="1">
+          <name>lyricist</name>
+        </tag>
+        <tag count="1">
+          <name>italien</name>
+        </tag>
+        <tag count="1">
+          <name>pianiste</name>
+        </tag>
+        <tag count="1">
+          <name>italy</name>
+        </tag>
+        <tag count="1">
+          <name>parolier</name>
+        </tag>
+        <tag count="1">
+          <name>composer</name>
+        </tag>
+        <tag count="1">
+          <name>italie</name>
+        </tag>
+        <tag count="1">
+          <name>compositeur</name>
+        </tag>
+        <tag count="1">
+          <name>pianist</name>
+        </tag>
+        <tag count="2">
+          <name>italian</name>
+        </tag>
+      </tag-list>
+    </artist>
+    <artist id="55dccda5-6ee8-40ec-b1fc-268c2a80df3f" type="Person" type-id="b6e035f4-3ce9-331c-97df-83397230b0df" ns2:score="29">
+      <name>Paolo</name>
+      <sort-name>Paolo</sort-name>
+      <gender id="36d3d30a-839d-3eda-8cb3-29be4384e4a9">male</gender>
+      <country>BR</country>
+      <area id="f45b47f8-5796-386e-b172-6c31b009a5d8" type="Country" type-id="06dd0ae4-8c74-30bb-b43d-95dcedf961de">
+        <name>Brazil</name>
+        <sort-name>Brazil</sort-name>
+        <life-span>
+          <ended>false</ended>
+        </life-span>
+      </area>
+      <disambiguation>Italian/Brazilian singer Paolo Luna</disambiguation>
+      <life-span>
+        <ended>false</ended>
+      </life-span>
+      <tag-list>
+        <tag count="1">
+          <name>multiple countries</name>
+        </tag>
+      </tag-list>
+    </artist>
+    <artist id="bfc52054-a9dd-47c3-884f-8a4f3682ebf7" type="Person" type-id="b6e035f4-3ce9-331c-97df-83397230b0df" ns2:score="29">
+      <name>Paolo</name>
+      <sort-name>Paolo</sort-name>
+      <gender id="36d3d30a-839d-3eda-8cb3-29be4384e4a9">male</gender>
+      <disambiguation>featured on "La Mer Diane"</disambiguation>
+      <life-span>
+        <ended>false</ended>
+      </life-span>
+    </artist>
+    <artist id="3ad33b4d-79ac-4414-a017-c7d56e005583" ns2:score="29">
+      <name>P.A.O.L.O</name>
+      <sort-name>P.A.O.L.O</sort-name>
+      <disambiguation>lounge</disambiguation>
+      <life-span>
+        <ended>false</ended>
+      </life-span>
+    </artist>
+    <artist id="b5675d93-476f-4af7-9df8-e78dc3a186c6" type="Person" type-id="b6e035f4-3ce9-331c-97df-83397230b0df" ns2:score="29">
+      <name>Paolo</name>
+      <sort-name>Paolo</sort-name>
+      <disambiguation>2010s–20s drum &amp; bass artist</disambiguation>
+      <life-span>
+        <ended>false</ended>
+      </life-span>
+    </artist>
+    <artist id="036990f9-6dcc-4918-8d5c-55ccd2f59b69" ns2:score="29">
+      <name>Paolo</name>
+      <sort-name>Paolo</sort-name>
+      <disambiguation>French Rapper</disambiguation>
+      <life-span>
+        <ended>false</ended>
+      </life-span>
+    </artist>
+    <artist id="12040f4d-1c35-433f-abfe-4bbe7148b9c3" type="Person" type-id="b6e035f4-3ce9-331c-97df-83397230b0df" ns2:score="29">
+      <name>Paolo</name>
+      <sort-name>Paolo</sort-name>
+      <gender id="36d3d30a-839d-3eda-8cb3-29be4384e4a9">male</gender>
+      <disambiguation>artist on "La musica della mafia"</disambiguation>
+      <life-span>
+        <ended>false</ended>
+      </life-span>
+    </artist>
+    <artist id="4b7faf1a-5cd6-409e-a20d-e5b61f406947" ns2:score="29">
+      <name>Paolo</name>
+      <sort-name>Paolo</sort-name>
+      <disambiguation>1990s UK jungle</disambiguation>
+      <life-span>
+        <ended>false</ended>
+      </life-span>
+    </artist>
+    <artist id="c7301466-d75c-45d5-aea7-d6ab8ea63e1c" type="Person" type-id="b6e035f4-3ce9-331c-97df-83397230b0df" ns2:score="29">
+      <name>Paolo Fresu</name>
+      <sort-name>Fresu, Paolo</sort-name>
+      <gender id="36d3d30a-839d-3eda-8cb3-29be4384e4a9">male</gender>
+      <country>IT</country>
+      <area id="c6500277-9a3d-349b-bf30-41afdbf42add" type="Country" type-id="06dd0ae4-8c74-30bb-b43d-95dcedf961de">
+        <name>Italy</name>
+        <sort-name>Italy</sort-name>
+        <life-span>
+          <ended>false</ended>
+        </life-span>
+      </area>
+      <begin-area id="72c92058-a42b-4996-891b-3bd6261e04c4" type="Municipality" type-id="17246454-5ac4-36a1-b81a-4753eb2dab20">
+        <name>Berchidda</name>
+        <sort-name>Berchidda</sort-name>
+        <life-span>
+          <ended>false</ended>
+        </life-span>
+      </begin-area>
+      <isni-list>
+        <isni>0000000078397926</isni>
+      </isni-list>
+      <life-span>
+        <begin>1961-02-10</begin>
+        <ended>false</ended>
+      </life-span>
+      <alias-list>
+        <alias sort-name="Paoluo Fresu">Paoluo Fresu</alias>
+        <alias sort-name="Paoulu Fresu">Paoulu Fresu</alias>
+        <alias sort-name="Paol Fresnu">Paol Fresnu</alias>
+      </alias-list>
+      <tag-list>
+        <tag count="1">
+          <name>jazz</name>
+        </tag>
+      </tag-list>
+    </artist>
+    <artist id="973b5ecc-9ebb-412c-997c-a35a0f5e3805" type="Person" type-id="b6e035f4-3ce9-331c-97df-83397230b0df" ns2:score="29">
+      <name>Paolo</name>
+      <sort-name>Paolo</sort-name>
+      <gender id="36d3d30a-839d-3eda-8cb3-29be4384e4a9">male</gender>
+      <country>IT</country>
+      <area id="c6500277-9a3d-349b-bf30-41afdbf42add" type="Country" type-id="06dd0ae4-8c74-30bb-b43d-95dcedf961de">
+        <name>Italy</name>
+        <sort-name>Italy</sort-name>
+        <life-span>
+          <ended>false</ended>
+        </life-span>
+      </area>
+      <disambiguation>Paolo Simoncini dei Crazy Boys</disambiguation>
+      <life-span>
+        <ended>false</ended>
+      </life-span>
+      <alias-list>
+        <alias sort-name="Boys, Paolo dei Crazy" type="Artist name" type-id="894afba6-2816-3c24-8072-eadb66bd04bc">Paolo dei Crazy Boys</alias>
+        <alias sort-name="Boys, Paolo Simoncioni dei Crazy" type="Artist name" type-id="894afba6-2816-3c24-8072-eadb66bd04bc">Paolo Simoncioni dei Crazy Boys</alias>
+        <alias sort-name="Simoncini, Paolo" type="Legal name" type-id="d4dcd0c0-b341-3612-a332-c0ce797b25cf">Paolo Simoncini</alias>
+      </alias-list>
+    </artist>
+    <artist id="8d338b22-3402-45b9-9b07-0ffa55df9f14" type="Person" type-id="b6e035f4-3ce9-331c-97df-83397230b0df" ns2:score="28">
+      <name>Paolo Di Paolo</name>
+      <sort-name>Paolo, Di, Paolo</sort-name>
+      <gender id="36d3d30a-839d-3eda-8cb3-29be4384e4a9">male</gender>
+      <country>GB</country>
+      <area id="8a754a16-0027-3a29-b6d7-2b40ea0481ed" type="Country" type-id="06dd0ae4-8c74-30bb-b43d-95dcedf961de">
+        <name>United Kingdom</name>
+        <sort-name>United Kingdom</sort-name>
+        <life-span>
+          <ended>false</ended>
+        </life-span>
+      </area>
+      <life-span>
+        <ended>false</ended>
+      </life-span>
+    </artist>
+    <artist id="e49bb106-4349-427e-bef9-27679f6ac22d" type="Person" type-id="b6e035f4-3ce9-331c-97df-83397230b0df" ns2:score="28">
+      <name>Paolo "Paolo" Tixi</name>
+      <sort-name>Tixi, Paolo "Paolo"</sort-name>
+      <gender id="36d3d30a-839d-3eda-8cb3-29be4384e4a9">male</gender>
+      <country>IT</country>
+      <area id="c6500277-9a3d-349b-bf30-41afdbf42add" type="Country" type-id="06dd0ae4-8c74-30bb-b43d-95dcedf961de">
+        <name>Italy</name>
+        <sort-name>Italy</sort-name>
+        <life-span>
+          <ended>false</ended>
+        </life-span>
+      </area>
+      <disambiguation>Italian drummer</disambiguation>
+      <life-span>
+        <ended>false</ended>
+      </life-span>
+    </artist>
+    <artist id="31b3f58c-37ec-4d18-95eb-64400df8a287" type="Person" type-id="b6e035f4-3ce9-331c-97df-83397230b0df" ns2:score="27">
+      <name>Paolo Angeli</name>
+      <sort-name>Angeli, Paolo</sort-name>
+      <gender id="36d3d30a-839d-3eda-8cb3-29be4384e4a9">male</gender>
+      <country>IT</country>
+      <area id="c6500277-9a3d-349b-bf30-41afdbf42add" type="Country" type-id="06dd0ae4-8c74-30bb-b43d-95dcedf961de">
+        <name>Italy</name>
+        <sort-name>Italy</sort-name>
+        <life-span>
+          <ended>false</ended>
+        </life-span>
+      </area>
+      <begin-area id="a2eaa4cc-48ab-478b-a27e-73c23d1721f2" type="Municipality" type-id="17246454-5ac4-36a1-b81a-4753eb2dab20">
+        <name>Sassari</name>
+        <sort-name>Sassari</sort-name>
+        <life-span>
+          <ended>false</ended>
+        </life-span>
+      </begin-area>
+      <isni-list>
+        <isni>000000045987428X</isni>
+      </isni-list>
+      <life-span>
+        <begin>1970-11-14</begin>
+        <ended>false</ended>
+      </life-span>
+      <tag-list>
+        <tag count="1">
+          <name>jazz and blues</name>
+        </tag>
+      </tag-list>
+    </artist>
+    <artist id="51431f95-eb92-4b2c-a09f-ee4f73d094fb" type="Person" type-id="b6e035f4-3ce9-331c-97df-83397230b0df" ns2:score="27">
+      <name>Paolo Buonvino</name>
+      <sort-name>Buonvino, Paolo</sort-name>
+      <gender id="36d3d30a-839d-3eda-8cb3-29be4384e4a9">male</gender>
+      <country>IT</country>
+      <area id="c6500277-9a3d-349b-bf30-41afdbf42add" type="Country" type-id="06dd0ae4-8c74-30bb-b43d-95dcedf961de">
+        <name>Italy</name>
+        <sort-name>Italy</sort-name>
+        <life-span>
+          <ended>false</ended>
+        </life-span>
+      </area>
+      <begin-area id="ba6062a1-3491-421f-a6fb-bad141efa360" type="Municipality" type-id="17246454-5ac4-36a1-b81a-4753eb2dab20">
+        <name>Scordia</name>
+        <sort-name>Scordia</sort-name>
+        <life-span>
+          <ended>false</ended>
+        </life-span>
+      </begin-area>
+      <isni-list>
+        <isni>0000000359959542</isni>
+      </isni-list>
+      <life-span>
+        <begin>1968</begin>
+        <ended>false</ended>
+      </life-span>
+    </artist>
+    <artist id="61b8415b-7126-4c39-97e5-46968e500e63" type="Person" type-id="b6e035f4-3ce9-331c-97df-83397230b0df" ns2:score="27">
+      <name>Paolo Meneguzzi</name>
+      <sort-name>Meneguzzi, Paolo</sort-name>
+      <gender id="36d3d30a-839d-3eda-8cb3-29be4384e4a9">male</gender>
+      <country>CH</country>
+      <area id="1333ff06-8e3d-3c8e-9f3a-13a2a38b41df" type="Country" type-id="06dd0ae4-8c74-30bb-b43d-95dcedf961de">
+        <name>Switzerland</name>
+        <sort-name>Switzerland</sort-name>
+        <life-span>
+          <ended>false</ended>
+        </life-span>
+      </area>
+      <begin-area id="9fbf7b3a-50e8-463e-ab5c-77d015c0c205" type="Municipality" type-id="17246454-5ac4-36a1-b81a-4753eb2dab20">
+        <name>Stabio</name>
+        <sort-name>Stabio</sort-name>
+        <life-span>
+          <ended>false</ended>
+        </life-span>
+      </begin-area>
+      <isni-list>
+        <isni>0000000114950961</isni>
+      </isni-list>
+      <life-span>
+        <begin>1976-12-06</begin>
+        <ended>false</ended>
+      </life-span>
+    </artist>
+    <artist id="360bdb50-6b02-4820-abe2-43a6ca667dae" type="Person" type-id="b6e035f4-3ce9-331c-97df-83397230b0df" ns2:score="26">
+      <name>Paolo Russo</name>
+      <sort-name>Russo, Paolo</sort-name>
+      <gender id="36d3d30a-839d-3eda-8cb3-29be4384e4a9">male</gender>
+      <begin-area id="23450bbf-a589-4cd9-8d6e-cdb7536f60fa" type="Municipality" type-id="17246454-5ac4-36a1-b81a-4753eb2dab20">
+        <name>Pescara</name>
+        <sort-name>Pescara</sort-name>
+        <life-span>
+          <ended>false</ended>
+        </life-span>
+      </begin-area>
+      <life-span>
+        <ended>false</ended>
+      </life-span>
+    </artist>
+    <artist id="e8c546e4-7c90-4818-9796-8f4bc7d2a7b1" type="Person" type-id="b6e035f4-3ce9-331c-97df-83397230b0df" ns2:score="26">
+      <name>Paolo Pandolfo</name>
+      <sort-name>Pandolfo, Paolo</sort-name>
+      <gender id="36d3d30a-839d-3eda-8cb3-29be4384e4a9">male</gender>
+      <country>IT</country>
+      <area id="c6500277-9a3d-349b-bf30-41afdbf42add" type="Country" type-id="06dd0ae4-8c74-30bb-b43d-95dcedf961de">
+        <name>Italy</name>
+        <sort-name>Italy</sort-name>
+        <life-span>
+          <ended>false</ended>
+        </life-span>
+      </area>
+      <begin-area id="c6500277-9a3d-349b-bf30-41afdbf42add" type="Country" type-id="06dd0ae4-8c74-30bb-b43d-95dcedf961de">
+        <name>Italy</name>
+        <sort-name>Italy</sort-name>
+        <life-span>
+          <ended>false</ended>
+        </life-span>
+      </begin-area>
+      <disambiguation>viol and double bass player</disambiguation>
+      <isni-list>
+        <isni>0000000055142218</isni>
+      </isni-list>
+      <life-span>
+        <begin>1964-01-31</begin>
+        <ended>false</ended>
+      </life-span>
+    </artist>
+    <artist id="a679c90b-5e63-4d4c-ba71-53516d41eb80" type="Person" type-id="b6e035f4-3ce9-331c-97df-83397230b0df" ns2:score="26">
+      <name>Paolo Birro</name>
+      <sort-name>Birro, Paolo</sort-name>
+      <gender id="36d3d30a-839d-3eda-8cb3-29be4384e4a9">male</gender>
+      <country>IT</country>
+      <area id="c6500277-9a3d-349b-bf30-41afdbf42add" type="Country" type-id="06dd0ae4-8c74-30bb-b43d-95dcedf961de">
+        <name>Italy</name>
+        <sort-name>Italy</sort-name>
+        <life-span>
+          <ended>false</ended>
+        </life-span>
+      </area>
+      <begin-area id="d7ffaf69-73ef-4538-b8a4-9c6ea1aeae00" type="Municipality" type-id="17246454-5ac4-36a1-b81a-4753eb2dab20">
+        <name>Noventa Vicentina</name>
+        <sort-name>Noventa Vicentina</sort-name>
+        <life-span>
+          <ended>false</ended>
+        </life-span>
+      </begin-area>
+      <life-span>
+        <begin>1962</begin>
+        <ended>false</ended>
+      </life-span>
+    </artist>
+    <artist id="ea4396f9-c328-481c-9689-5efb2608eac4" type="Person" type-id="b6e035f4-3ce9-331c-97df-83397230b0df" ns2:score="26">
+      <name>Paolo Belli</name>
+      <sort-name>Belli, Paolo</sort-name>
+      <gender id="36d3d30a-839d-3eda-8cb3-29be4384e4a9">male</gender>
+      <country>IT</country>
+      <area id="c6500277-9a3d-349b-bf30-41afdbf42add" type="Country" type-id="06dd0ae4-8c74-30bb-b43d-95dcedf961de">
+        <name>Italy</name>
+        <sort-name>Italy</sort-name>
+        <life-span>
+          <ended>false</ended>
+        </life-span>
+      </area>
+      <life-span>
+        <begin>1962-03-21</begin>
+        <ended>false</ended>
+      </life-span>
+    </artist>
+    <artist id="dc68268f-e2d0-4a53-a775-ac733a2afc69" type="Person" type-id="b6e035f4-3ce9-331c-97df-83397230b0df" ns2:score="26">
+      <name>Paolo Giacometti</name>
+      <sort-name>Giacometti, Paolo</sort-name>
+      <gender id="36d3d30a-839d-3eda-8cb3-29be4384e4a9">male</gender>
+      <country>IT</country>
+      <area id="c6500277-9a3d-349b-bf30-41afdbf42add" type="Country" type-id="06dd0ae4-8c74-30bb-b43d-95dcedf961de">
+        <name>Italy</name>
+        <sort-name>Italy</sort-name>
+        <life-span>
+          <ended>false</ended>
+        </life-span>
+      </area>
+      <disambiguation>pianist</disambiguation>
+      <isni-list>
+        <isni>000000011954329X</isni>
+      </isni-list>
+      <life-span>
+        <begin>1970</begin>
+        <ended>false</ended>
+      </life-span>
+    </artist>
+  </artist-list>
+</metadata>

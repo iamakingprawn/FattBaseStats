@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FatBassStats": {
+      "commandName": "Project",
+      "commandLineArgs": "/artistname paolo nutini"
+    }
+  }
+}

@@ -1,0 +1,871 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<metadata created="2022-08-08T11:01:27.296Z" xmlns="http://musicbrainz.org/ns/mmd-2.0#" xmlns:ns2="http://musicbrainz.org/ns/ext#-2.0">
+  <work-list count="13" offset="0">
+    <work id="ecd1c2df-2b3e-46f1-b780-ed879823fe1a" type="Song" type-id="f061270a-2fd6-32f1-a641-f0f8676d14e6" ns2:score="100">
+      <title>Last Request</title>
+      <language>eng</language>
+      <language-list>
+        <language>eng</language>
+      </language-list>
+      <iswc-list>
+        <iswc>T-037.727.002-4</iswc>
+      </iswc-list>
+      <relation-list target-type="artist">
+        <relation type="writer" type-id="a255bca1-b157-4518-9108-7b147dc3fc68">
+          <direction>backward</direction>
+          <artist id="0f0d94d4-1d29-4a24-b1b0-6ea568243938">
+            <name>Matt Benbrook</name>
+            <sort-name>Benbrook, Matt</sort-name>
+          </artist>
+        </relation>
+        <relation type="writer" type-id="a255bca1-b157-4518-9108-7b147dc3fc68">
+          <direction>backward</direction>
+          <artist id="ed1842c8-eccf-47bb-b3a2-a354ad7a0139">
+            <name>Jim Duguid</name>
+            <sort-name>Duguid, Jim</sort-name>
+          </artist>
+        </relation>
+        <relation type="writer" type-id="a255bca1-b157-4518-9108-7b147dc3fc68">
+          <direction>backward</direction>
+          <artist id="24ea074c-59cc-41c5-a5de-f68c2952965f">
+            <name>Paolo Nutini</name>
+            <sort-name>Nutini, Paolo</sort-name>
+          </artist>
+        </relation>
+      </relation-list>
+      <relation-list target-type="recording">
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="dfbb4b5d-fff7-494f-a8e1-10d2d10f8ae0">
+            <title>Last Request</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <attribute-list/>
+          <recording id="a7f935e1-a69f-4198-b8b2-36eaf3370185">
+            <title>Last Request</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <attribute-list/>
+          <recording id="fc1d61c1-b5f2-400c-abd7-3ced8dff7545">
+            <title>Last Request (live from Bush Studios)</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <attribute-list/>
+          <recording id="343351ff-135f-45bf-ac5c-8a6fade7ca3d">
+            <title>Last Request</title>
+            <video>true</video>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="2da19465-ad4c-4222-8f0b-90594c5e0de3">
+            <title>Last Request (acoustic version)</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="75483978-ef77-4f57-b3f6-04744256361e">
+            <title>Last Request</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <attribute-list/>
+          <recording id="59be33ec-2899-4a01-a087-1722e8cdc0e5">
+            <title>Last Request</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="2315b38d-2ebf-49ec-a357-22ad45c6e36c">
+            <title>Late Request</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="9d124fca-f2d2-47c4-ad81-bc8ad586c4bf">
+            <title>Last Request</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <attribute-list/>
+          <recording id="ad204d1a-6950-48a3-819c-af383f61eccf">
+            <title>Last Request</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="7a3b9257-83d0-4380-b89d-c8a7e2e3b7ec">
+            <title>Last Request (radio version)</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="80f66ad4-152e-4054-9828-764fb295f895">
+            <title>Last Request (new version)</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="8efac539-42eb-4ca4-8b5c-823994ee9702">
+            <title>Last Request (live &amp; acoustic version) (recorded at Bush Studios)</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="9191163f-6ccd-4ecf-9e8f-ac6d7713d689">
+            <title>Last Request (album version)</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="45e5ffda-e30c-497b-befd-e2627ae846dc">
+            <title>Last Request</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="fec30256-e531-44fc-b55c-fa51b99f5cf8">
+            <title>Last Request</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="2786d62d-8059-4d03-82d3-dc487de64575">
+            <title>Last Request</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="d2e2fabd-f1f2-43a7-894b-145588d9f1c2">
+            <title>Last Request</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="63f35ea3-a934-409a-bf58-5450ad3e2cbd">
+            <title>Last Request</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="c5d669ba-3fca-4603-9001-f003518a1c05">
+            <title>Last Request</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="ed8cfd4e-6304-48e4-80fd-43572f110859">
+            <title>Last Request</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="b47ee034-609b-40f7-ace3-334844712eea">
+            <title>Last Request</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="94915c99-311b-4d52-9a41-3d3fb130f550">
+            <title>Last Request</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="22daa7ca-1c9f-4df3-b452-a4cec13b6cdc">
+            <title>Last Request</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="bda9704c-b4c3-418e-adf5-16d4a11edea3">
+            <title>Last Request</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="1a6efe1b-6312-41d0-992d-6deab40fddc1">
+            <title>Last Request</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="17d48d32-d3da-4899-940f-8d2f176d55fe">
+            <title>Last Request</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="07a69e88-5acf-434f-b9b1-4871a5660199">
+            <title>Last Request</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="333e0dc1-11ee-4787-9671-e865a9427aba">
+            <title>Last Request</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="6ffb04a7-47dd-4cd4-acd9-5f9202a88d00">
+            <title>Last Request</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="b07f038c-7f5e-410e-be79-c3d34d5fc2f4">
+            <title>Last Request</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="3e2fed17-bddf-432b-9737-939ed57ff573">
+            <title>Last Request</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="f1dc9243-9ebe-414f-8970-f642959d9bf4">
+            <title>Last Request</title>
+          </recording>
+        </relation>
+      </relation-list>
+    </work>
+    <work id="90d7d0e5-2a55-4f4c-8ee8-e1a9bec14b1a" type="Song" type-id="f061270a-2fd6-32f1-a641-f0f8676d14e6" ns2:score="97">
+      <title>Jenny Don’t Be Hasty</title>
+      <language>eng</language>
+      <language-list>
+        <language>eng</language>
+      </language-list>
+      <relation-list target-type="artist">
+        <relation type="writer" type-id="a255bca1-b157-4518-9108-7b147dc3fc68">
+          <direction>backward</direction>
+          <artist id="24ea074c-59cc-41c5-a5de-f68c2952965f">
+            <name>Paolo Nutini</name>
+            <sort-name>Nutini, Paolo</sort-name>
+          </artist>
+        </relation>
+        <relation type="writer" type-id="a255bca1-b157-4518-9108-7b147dc3fc68">
+          <direction>backward</direction>
+          <artist id="89c95275-8b18-4855-9a7a-a051b5b9c95d">
+            <name>Jimmy Hogarth</name>
+            <sort-name>Hogarth, Jimmy</sort-name>
+          </artist>
+        </relation>
+      </relation-list>
+      <relation-list target-type="recording">
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <attribute-list/>
+          <recording id="faa1adb0-5e24-45f6-b19a-ad3a617904a5">
+            <title>Jenny Don’t Be Hasty</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="3d36b239-3437-44cf-bca0-da6d8f7dd216">
+            <title>Jenny Don’t Be Hasty</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="772bd9c5-7cfe-4a0f-910e-8260795fd0a8">
+            <title>Jenny Don’t Be Hasty</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <attribute-list/>
+          <recording id="895e4659-179f-4ba0-a6bb-0f9761caa67d">
+            <title>Jenny Don’t Be Hasty (live at Par Street)</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="95432ded-ce27-4978-9d70-e78cb22ee43e">
+            <title>Jenny Don't Be Hasty (Hempolics &amp; P.Nut remix)</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="ab54e110-640d-4ea9-875f-c061474dc134">
+            <title>Jenny Don't Be Hasty (Hempolics &amp; P.nut remix)</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="0e089380-3be5-414d-8d1c-78134dcde1f0">
+            <title>Jenny Don't Be Hasty</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="91fc3336-6448-4663-b71c-71b1847dbf99">
+            <title>Jenny Don't Be Hasty</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="578b0164-dd3a-47c1-a937-065d94654759">
+            <title>Jenny Don't Be Hasty</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="51f81c8c-9fd3-406c-a4bd-ae5b29436729">
+            <title>Jenny Don't Be Hasty</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="4f2f9401-e5be-4309-8b70-61fa2f1d42a7">
+            <title>Jenny Don't Be Hasty</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="47cd755e-e56c-4ad9-823e-fd5b949bc45a">
+            <title>Jenny Don’t Be Hasty</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="1a66a9ff-a731-44f4-97b7-633d2f52500c">
+            <title>Jenny Don't Be Hasty</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="b02fc95b-b130-47f0-bc03-67c1e8716077">
+            <title>Jenny Don't Be Hasty</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="26a23375-9e3a-46a8-b0b9-94374f2b4897">
+            <title>Jenny Don’t Be Hasty</title>
+          </recording>
+        </relation>
+      </relation-list>
+    </work>
+    <work id="10d8e79d-3eb9-4ef4-bb79-00cceac3cc31" type="Song" type-id="f061270a-2fd6-32f1-a641-f0f8676d14e6" ns2:score="96">
+      <title>Candy</title>
+      <language>eng</language>
+      <language-list>
+        <language>eng</language>
+      </language-list>
+      <relation-list target-type="artist">
+        <relation type="composer" type-id="d59d99ea-23d4-4a80-b066-edca32ee158f">
+          <direction>backward</direction>
+          <artist id="24ea074c-59cc-41c5-a5de-f68c2952965f">
+            <name>Paolo Nutini</name>
+            <sort-name>Nutini, Paolo</sort-name>
+          </artist>
+        </relation>
+        <relation type="lyricist" type-id="3e48faba-ec01-47fd-8e89-30e81161661c">
+          <direction>backward</direction>
+          <artist id="24ea074c-59cc-41c5-a5de-f68c2952965f">
+            <name>Paolo Nutini</name>
+            <sort-name>Nutini, Paolo</sort-name>
+          </artist>
+        </relation>
+      </relation-list>
+      <relation-list target-type="recording">
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <attribute-list/>
+          <recording id="182c545f-3561-43de-b1b5-b7c985626444">
+            <title>Candy</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="335ea129-900d-4dd2-96ae-1241f8332c5a">
+            <title>Candy</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <attribute-list/>
+          <recording id="b5dc1668-e3f3-4bb2-a712-c5e42dacd99a">
+            <title>Candy</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <attribute-list/>
+          <recording id="4431c247-6c2b-410c-a3ba-c963f0510fbf">
+            <title>Candy</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="0710ba35-f230-4843-91f2-d1ae08eeadf4">
+            <title>Candy</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <attribute-list/>
+          <recording id="335ea129-900d-4dd2-96ae-1241f8332c5a">
+            <title>Candy</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="ce9b5564-f6da-46a5-870e-8a01f3620a3f">
+            <title>Candy</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <attribute-list/>
+          <recording id="27272e57-72f8-44f8-8bcb-f2e60ec44c2c">
+            <title>Candy</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="d09c7d22-13c8-432f-a984-8d81250827d1">
+            <title>Candy</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <attribute-list/>
+          <recording id="24169070-49b4-4185-a40f-1f2bebdb22e8">
+            <title>Candy</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="dcbfb171-0585-437e-8d81-c4796ecbaece">
+            <title>Candy</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="3ddfe5ee-b6fc-41a1-b68f-1ae236f47260">
+            <title>Candy</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="4f56b388-d44f-4922-a450-a9ca8ee4fe97">
+            <title>Candy</title>
+          </recording>
+        </relation>
+      </relation-list>
+    </work>
+    <work id="11a07f43-4810-4ee9-bab0-a8b5c841ce2f" type="Song" type-id="f061270a-2fd6-32f1-a641-f0f8676d14e6" ns2:score="95">
+      <title>Pencil Full of Lead</title>
+      <language>eng</language>
+      <language-list>
+        <language>eng</language>
+      </language-list>
+      <relation-list target-type="artist">
+        <relation type="composer" type-id="d59d99ea-23d4-4a80-b066-edca32ee158f">
+          <direction>backward</direction>
+          <artist id="24ea074c-59cc-41c5-a5de-f68c2952965f">
+            <name>Paolo Nutini</name>
+            <sort-name>Nutini, Paolo</sort-name>
+          </artist>
+        </relation>
+        <relation type="lyricist" type-id="3e48faba-ec01-47fd-8e89-30e81161661c">
+          <direction>backward</direction>
+          <artist id="24ea074c-59cc-41c5-a5de-f68c2952965f">
+            <name>Paolo Nutini</name>
+            <sort-name>Nutini, Paolo</sort-name>
+          </artist>
+        </relation>
+      </relation-list>
+      <relation-list target-type="recording">
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <attribute-list/>
+          <recording id="f4d464ca-ef9f-41c4-9192-d56eaf8366d5">
+            <title>Pencil Full of Lead</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="c0432f0e-aeed-4351-a32e-2764cc383de9">
+            <title>Pencil Full of Lead</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="63b21080-3e2c-44c0-b931-9c9da79d88ad">
+            <title>Pencil Full of Lead</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="ddc5469a-63c4-4e35-9833-aa3e76df9d40">
+            <title>Pencil Full of Lead</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="ee087041-7be6-4ea1-8708-b1f6b6b3651a">
+            <title>Pencil Full of Lead</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="cfc94923-93ad-495b-9a0e-a5e2ece1daa0">
+            <title>Pencil Full of Lead</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="9cf7487c-384f-48df-a0dd-5817c556ed59">
+            <title>Pencil Full of Lead</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="c074cb1b-2fce-4aa3-a0ac-0c126a5d672e">
+            <title>Pencil Full of Lead</title>
+          </recording>
+        </relation>
+      </relation-list>
+    </work>
+    <work id="1be5e658-c140-4c0e-a844-45df20be88ed" type="Song" type-id="f061270a-2fd6-32f1-a641-f0f8676d14e6" ns2:score="94">
+      <title>Autumn</title>
+      <language>eng</language>
+      <language-list>
+        <language>eng</language>
+      </language-list>
+      <iswc-list>
+        <iswc>T-011.639.899-2</iswc>
+      </iswc-list>
+      <relation-list target-type="artist">
+        <relation type="writer" type-id="a255bca1-b157-4518-9108-7b147dc3fc68">
+          <direction>backward</direction>
+          <artist id="24ea074c-59cc-41c5-a5de-f68c2952965f">
+            <name>Paolo Nutini</name>
+            <sort-name>Nutini, Paolo</sort-name>
+          </artist>
+        </relation>
+        <relation type="writer" type-id="a255bca1-b157-4518-9108-7b147dc3fc68">
+          <direction>backward</direction>
+          <artist id="ed1842c8-eccf-47bb-b3a2-a354ad7a0139">
+            <name>Jim Duguid</name>
+            <sort-name>Duguid, Jim</sort-name>
+          </artist>
+        </relation>
+      </relation-list>
+      <relation-list target-type="recording">
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="6ad94758-1ff4-43fc-86d3-110320b3b52c">
+            <title>Autumn</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="dc85e772-fb02-46c7-a6e1-3d79baf207b8">
+            <title>Autumn</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <attribute-list/>
+          <recording id="17768ada-ed1c-479f-848f-d8eda8091a2a">
+            <title>Autumn Leaves</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <attribute-list/>
+          <recording id="dadd69a0-0dcb-40dd-9968-bd41a010cfcf">
+            <title>Autumn</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="0de81ec4-81d6-4a77-98f5-970a09eee4c2">
+            <title>Autumn</title>
+          </recording>
+        </relation>
+      </relation-list>
+    </work>
+    <work id="55732d16-cf6e-4e1b-9520-72f55c0a253b" type="Song" type-id="f061270a-2fd6-32f1-a641-f0f8676d14e6" ns2:score="91">
+      <title>Iron Sky</title>
+      <language>eng</language>
+      <language-list>
+        <language>eng</language>
+      </language-list>
+      <relation-list target-type="artist">
+        <relation type="writer" type-id="a255bca1-b157-4518-9108-7b147dc3fc68">
+          <direction>backward</direction>
+          <artist id="6462f071-dfe2-44db-a7f2-f568fae7f6d5">
+            <name>Dave Nelson</name>
+            <sort-name>Nelson, Dave</sort-name>
+            <disambiguation>Writes with Paolo Nutini</disambiguation>
+          </artist>
+        </relation>
+        <relation type="writer" type-id="a255bca1-b157-4518-9108-7b147dc3fc68">
+          <direction>backward</direction>
+          <artist id="24ea074c-59cc-41c5-a5de-f68c2952965f">
+            <name>Paolo Nutini</name>
+            <sort-name>Nutini, Paolo</sort-name>
+          </artist>
+        </relation>
+        <relation type="lyricist" type-id="3e48faba-ec01-47fd-8e89-30e81161661c">
+          <direction>backward</direction>
+          <artist id="043eefc9-9d94-4d06-b6f3-93252fa52154">
+            <name>Charlie Chaplin</name>
+            <sort-name>Chaplin, Charlie</sort-name>
+            <disambiguation>filmmaker</disambiguation>
+          </artist>
+        </relation>
+      </relation-list>
+      <relation-list target-type="recording">
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="47f16635-5c4c-4a5f-94cc-e7a0466fa348">
+            <title>Iron Sky</title>
+          </recording>
+        </relation>
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="71ab4d83-a779-4b44-9f00-44d15c239ebc">
+            <title>Iron Sky</title>
+          </recording>
+        </relation>
+      </relation-list>
+    </work>
+    <work id="a8a1775e-6cc0-489f-9b2c-fc590f43f6c9" type="Song" type-id="f061270a-2fd6-32f1-a641-f0f8676d14e6" ns2:score="90">
+      <title>Numpty</title>
+      <language>eng</language>
+      <language-list>
+        <language>eng</language>
+      </language-list>
+      <relation-list target-type="artist">
+        <relation type="lyricist" type-id="3e48faba-ec01-47fd-8e89-30e81161661c">
+          <direction>backward</direction>
+          <artist id="24ea074c-59cc-41c5-a5de-f68c2952965f">
+            <name>Paolo Nutini</name>
+            <sort-name>Nutini, Paolo</sort-name>
+          </artist>
+        </relation>
+        <relation type="composer" type-id="d59d99ea-23d4-4a80-b066-edca32ee158f">
+          <direction>backward</direction>
+          <artist id="24ea074c-59cc-41c5-a5de-f68c2952965f">
+            <name>Paolo Nutini</name>
+            <sort-name>Nutini, Paolo</sort-name>
+          </artist>
+        </relation>
+      </relation-list>
+      <relation-list target-type="recording">
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="8265f276-baf0-4a72-8104-bee2743a6090">
+            <title>Numpty</title>
+          </recording>
+        </relation>
+      </relation-list>
+    </work>
+    <work id="7f5b0d3a-8c44-46d8-8c82-9cbbcea23eb5" type="Song" type-id="f061270a-2fd6-32f1-a641-f0f8676d14e6" ns2:score="90">
+      <title>Better Man</title>
+      <language>eng</language>
+      <language-list>
+        <language>eng</language>
+      </language-list>
+      <relation-list target-type="artist">
+        <relation type="lyricist" type-id="3e48faba-ec01-47fd-8e89-30e81161661c">
+          <direction>backward</direction>
+          <artist id="24ea074c-59cc-41c5-a5de-f68c2952965f">
+            <name>Paolo Nutini</name>
+            <sort-name>Nutini, Paolo</sort-name>
+          </artist>
+        </relation>
+        <relation type="composer" type-id="d59d99ea-23d4-4a80-b066-edca32ee158f">
+          <direction>backward</direction>
+          <artist id="24ea074c-59cc-41c5-a5de-f68c2952965f">
+            <name>Paolo Nutini</name>
+            <sort-name>Nutini, Paolo</sort-name>
+          </artist>
+        </relation>
+      </relation-list>
+      <relation-list target-type="recording">
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="722e5da2-cdcb-486e-bbce-6fe8f7506f58">
+            <title>Better Man</title>
+          </recording>
+        </relation>
+      </relation-list>
+    </work>
+    <work id="e3cd1d01-5ebf-4d11-ac7c-f96888573841" type="Song" type-id="f061270a-2fd6-32f1-a641-f0f8676d14e6" ns2:score="90">
+      <title>Scream (Funk My Life Up)</title>
+      <language>eng</language>
+      <language-list>
+        <language>eng</language>
+      </language-list>
+      <iswc-list>
+        <iswc>T-913.999.714-1</iswc>
+      </iswc-list>
+      <relation-list target-type="artist">
+        <relation type="composer" type-id="d59d99ea-23d4-4a80-b066-edca32ee158f">
+          <direction>backward</direction>
+          <artist id="24ea074c-59cc-41c5-a5de-f68c2952965f">
+            <name>Paolo Nutini</name>
+            <sort-name>Nutini, Paolo</sort-name>
+          </artist>
+        </relation>
+        <relation type="lyricist" type-id="3e48faba-ec01-47fd-8e89-30e81161661c">
+          <direction>backward</direction>
+          <artist id="24ea074c-59cc-41c5-a5de-f68c2952965f">
+            <name>Paolo Nutini</name>
+            <sort-name>Nutini, Paolo</sort-name>
+          </artist>
+        </relation>
+      </relation-list>
+      <relation-list target-type="recording">
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="e8324f14-6d37-48d4-be7b-5b301ed3d41c">
+            <title>Scream (Funk My Life Up)</title>
+          </recording>
+        </relation>
+      </relation-list>
+    </work>
+    <work id="51712cb5-bccd-4dea-8c2e-8abd3d35f826" type="Song" type-id="f061270a-2fd6-32f1-a641-f0f8676d14e6" ns2:score="90">
+      <title>Superfly (interlude)</title>
+      <language>eng</language>
+      <language-list>
+        <language>eng</language>
+      </language-list>
+      <relation-list target-type="artist">
+        <relation type="writer" type-id="a255bca1-b157-4518-9108-7b147dc3fc68">
+          <direction>backward</direction>
+          <artist id="8dce9ad6-9415-4373-9747-dcac5ef43aef">
+            <name>Leo Abrahams</name>
+            <sort-name>Abrahams, Leo</sort-name>
+          </artist>
+        </relation>
+        <relation type="writer" type-id="a255bca1-b157-4518-9108-7b147dc3fc68">
+          <direction>backward</direction>
+          <artist id="24ea074c-59cc-41c5-a5de-f68c2952965f">
+            <name>Paolo Nutini</name>
+            <sort-name>Nutini, Paolo</sort-name>
+          </artist>
+        </relation>
+      </relation-list>
+      <relation-list target-type="recording">
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="68bba453-a932-493f-9648-a50154b48674">
+            <title>Superfly (interlude)</title>
+          </recording>
+        </relation>
+      </relation-list>
+    </work>
+    <work id="9f69a71f-3069-4159-9baa-dce76e34f10c" type="Song" type-id="f061270a-2fd6-32f1-a641-f0f8676d14e6" ns2:score="90">
+      <title>Looking for Something</title>
+      <language>eng</language>
+      <language-list>
+        <language>eng</language>
+      </language-list>
+      <relation-list target-type="artist">
+        <relation type="writer" type-id="a255bca1-b157-4518-9108-7b147dc3fc68">
+          <direction>backward</direction>
+          <artist id="24ea074c-59cc-41c5-a5de-f68c2952965f">
+            <name>Paolo Nutini</name>
+            <sort-name>Nutini, Paolo</sort-name>
+          </artist>
+        </relation>
+        <relation type="writer" type-id="a255bca1-b157-4518-9108-7b147dc3fc68">
+          <direction>backward</direction>
+          <artist id="7499de5d-7791-40fa-92f1-4152d5508761">
+            <name>Michael McDaid</name>
+            <sort-name>McDaid, Michael</sort-name>
+          </artist>
+        </relation>
+      </relation-list>
+      <relation-list target-type="recording">
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="d2b63d73-2ab1-472b-9ead-ca221efbfefb">
+            <title>Looking for Something</title>
+          </recording>
+        </relation>
+      </relation-list>
+    </work>
+    <work id="98f177ce-8c63-4730-a31a-05964fda2341" type="Song" type-id="f061270a-2fd6-32f1-a641-f0f8676d14e6" ns2:score="90">
+      <title>Diana</title>
+      <language>eng</language>
+      <language-list>
+        <language>eng</language>
+      </language-list>
+      <relation-list target-type="artist">
+        <relation type="writer" type-id="a255bca1-b157-4518-9108-7b147dc3fc68">
+          <direction>backward</direction>
+          <artist id="24ea074c-59cc-41c5-a5de-f68c2952965f">
+            <name>Paolo Nutini</name>
+            <sort-name>Nutini, Paolo</sort-name>
+          </artist>
+        </relation>
+        <relation type="writer" type-id="a255bca1-b157-4518-9108-7b147dc3fc68">
+          <direction>backward</direction>
+          <artist id="6462f071-dfe2-44db-a7f2-f568fae7f6d5">
+            <name>Dave Nelson</name>
+            <sort-name>Nelson, Dave</sort-name>
+            <disambiguation>Writes with Paolo Nutini</disambiguation>
+          </artist>
+        </relation>
+      </relation-list>
+      <relation-list target-type="recording">
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="7f8791b4-b4c8-4296-b31c-99d155fba116">
+            <title>Diana</title>
+          </recording>
+        </relation>
+      </relation-list>
+    </work>
+    <work id="2afd0afe-a387-40c1-b2ee-387be0332c51" type="Song" type-id="f061270a-2fd6-32f1-a641-f0f8676d14e6" ns2:score="90">
+      <title>Someone Like You</title>
+      <language>eng</language>
+      <language-list>
+        <language>eng</language>
+      </language-list>
+      <relation-list target-type="artist">
+        <relation type="lyricist" type-id="3e48faba-ec01-47fd-8e89-30e81161661c">
+          <direction>backward</direction>
+          <artist id="24ea074c-59cc-41c5-a5de-f68c2952965f">
+            <name>Paolo Nutini</name>
+            <sort-name>Nutini, Paolo</sort-name>
+          </artist>
+        </relation>
+        <relation type="composer" type-id="d59d99ea-23d4-4a80-b066-edca32ee158f">
+          <direction>backward</direction>
+          <artist id="24ea074c-59cc-41c5-a5de-f68c2952965f">
+            <name>Paolo Nutini</name>
+            <sort-name>Nutini, Paolo</sort-name>
+          </artist>
+        </relation>
+      </relation-list>
+      <relation-list target-type="recording">
+        <relation type="performance" type-id="a3005666-a872-32c3-ad06-98af558e99b0">
+          <direction>backward</direction>
+          <recording id="a8d830ce-808f-414a-9667-e848348d41e5">
+            <title>Someone Like You</title>
+          </recording>
+        </relation>
+      </relation-list>
+    </work>
+  </work-list>
+</metadata>
